@@ -11,7 +11,7 @@ FIXME: intro
 ## Topics
 
 1.  [Drawing Polygons](01-poly.html)
-2.  [Functions](02-func.html)
+2.  [Creating Functions](02-func.html)
 
 ## Other Resources
 
